@@ -2,3 +2,11 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 GitHub related
+ZCZC W00 5 L23 Joining Discord
+ZCZC W00 10 L01 Reading forums
+ZCZC W00 15 L22 Watched 10 Classic Operating Systems You Can Run in Your Web Browser
+ZCZC W00 10 L05 GSGS related (How to make github pages)
+ZCZC W00 10 L04 GitHub Pages setup
+ZCZC W00 30	L03 Pop quiz related
+ZCZC W00 90 L02 ZOOM related (Attend class [22/02/2021])
+ZCZC W00 30 L05 Searching about virtual box and debian
