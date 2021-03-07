@@ -9,5 +9,5 @@ Hello! I'm Teofanus Gary. You can check out my:
 
 * [Week 01](W01)
 
-[Github Repo]: https://garyteofanus.github.io/os211/
+[Github Repo]: https://github.com/garyteofanus/os211
 [Log]: https://raw.githubusercontent.com/garyteofanus/os211/master/TXT/mylog.txt
