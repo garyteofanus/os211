@@ -1,9 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-
-# Week 00
-
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 5 L23 Joining Discord
 ZCZC W00 10 L01 Reading forums
@@ -17,9 +14,6 @@ ZCZC W00 30 L08 Trying kawung and some linux command
 ZCZC W00 30 L05 Searching about virtual box and debian
 ZCZC W00 60 L21 Setting up debian on virtual box
 ZCZC W00 10 L04 Adding index.md pages
-
-# Week 01
-
 ZCZC W01 90 L02 ZOOM related (Attend class [01/03/2021])
 ZCZC W01 15 L06 Reading References/Books/Documents
 ZCZC W01 180 L21 Debugging and trying to make debian boot
@@ -27,3 +21,10 @@ ZCZC W01 30 L23 Asking for TA's help on discord
 ZCZC W01 60 L09 TA's assistance session
 ZCZC W01 30 L08 Trying something
 ZCZC W01 90 L05 Searching for top 10 links
+ZCZC W02 100 L02 Zoom related (Attend class [08/03/2021])
+ZCZC W02 30 L01 Pop Quiz
+ZCZC W02 90 L23 Discord: discussion about assignments
+ZCZC W02 60 L25 Trying demos of C program
+ZCZC W02 45 L10 Creating GnuPG key pair, public key, SHA256SUM, SHA256SUM.asc, and myrank    
+ZCZC W02 60 L06 Reading books
+ZCZC W02 200 L10 Finding top 10 for week 02
