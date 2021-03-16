@@ -28,3 +28,5 @@ ZCZC W02 60 L25 Trying demos of C program
 ZCZC W02 45 L10 Creating GnuPG key pair, public key, SHA256SUM, SHA256SUM.asc, and myrank    
 ZCZC W02 60 L06 Reading books
 ZCZC W02 200 L10 Finding top 10 for week 02
+ZCZC W02 45 L05 Reading more about hash and pgp
+ZCZC W02 30 L25 Reading the basics of C from 'Learn C in Y Minutes' website
