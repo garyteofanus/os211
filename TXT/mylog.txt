@@ -22,6 +22,7 @@ ZCZC W01 60 L09 TA's assistance session
 ZCZC W01 30 L08 Trying something
 ZCZC W01 90 L05 Searching for top 10 links
 ZCZC W02 100 L02 Zoom related (Attend class [08/03/2021])
+ZCZC W02 50 L02 Zoom related (Attend class [10/03/2021])
 ZCZC W02 30 L01 Pop Quiz
 ZCZC W02 90 L23 Discord: discussion about assignments
 ZCZC W02 60 L25 Trying demos of C program
