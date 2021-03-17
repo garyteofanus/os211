@@ -4,6 +4,8 @@ Hello! I'm Teofanus Gary. You can check out my:
 
 * [Github Repo][Github Repo]
 * [LOG][Log]
+* [Rank][Rank]
+* [Key][Key]
 
 ## Weekly Top 10 List
 
@@ -11,4 +13,6 @@ Hello! I'm Teofanus Gary. You can check out my:
 * [Week 02](W02)
 
 [Github Repo]: https://github.com/garyteofanus/os211
-[Log]: https://raw.githubusercontent.com/garyteofanus/os211/master/TXT/mylog.txt
+[Log]: https://garyteofanus.github.io/os211/TXT/mylog.txt
+[Rank]: https://garyteofanus.github.io/os211/TXT/myrank.txt
+[Key]: https://garyteofanus.github.io/os211/TXT/mypubkey.txt
