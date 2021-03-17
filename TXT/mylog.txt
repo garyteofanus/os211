@@ -32,3 +32,5 @@ ZCZC W02 200 L10 Finding top 10 for week 02
 ZCZC W02 45 L05 Reading more about hash and pgp
 ZCZC W02 30 L25 Reading the basics of C from 'Learn C in Y Minutes' website
 ZCZC W03 100 L02 Zoom related (Attend class [17/03/2021])
+ZCZC W03 60 L25 Trying week 02 and week 03 demos
+ZCZC W03 60 L05 Searching about file descriptors, FUSE, and linux filesystem
