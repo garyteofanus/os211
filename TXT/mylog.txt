@@ -36,3 +36,9 @@ ZCZC W03 60 L25 Trying week 02 and week 03 demos
 ZCZC W03 60 L05 Searching about file descriptors, FUSE, and linux filesystem
 ZCZC W03 60 L01 Pop Quiz (2 times)
 ZCZC W03 200 L05 Searching and finishing top 10 links and learns a lot of other thing as well 
+ZCZC W04 30 L01 Pop Quiz
+ZCZC W04 150 L05 Searching for top 10 links
+ZCZC W04 30 L07 Trying some demos
+ZCZC W04 15 L25 A little search about pointers
+ZCZC W04 30 L06 Reading chapter 9  
+ZCZC W04 10 L09 Asking about scoring
