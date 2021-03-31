@@ -42,3 +42,4 @@ ZCZC W04 30 L07 Trying some demos
 ZCZC W04 15 L25 A little search about pointers
 ZCZC W04 30 L06 Reading chapter 9  
 ZCZC W04 10 L09 Asking about scoring
+ZCZC W05 100 L02 Zoom related (Attend class [31/03/2021])
