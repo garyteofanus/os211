@@ -31,7 +31,7 @@ for II in W?? ; do
     rm -f $TARFILE $TARFASC
     echo "tar cfj $TARFILE $II/"
     tar cfj $TARFILE $II/
-    echo "gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE"
+    echo "gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $REC3 $TARFILE"
     gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE
 done
 popd
