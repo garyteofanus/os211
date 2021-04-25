@@ -46,3 +46,8 @@ ZCZC W05 100 L02 Zoom related (Attend class [31/03/2021])
 ZCZC W05 60 L01 Pop Quiz
 ZCZC W05 30 L07 Trying week 05 demos
 ZCZC W05 45 L06 Reading chapter 10
+ZCZC W06 100 L02 Zoom related (Attend class [07/04/2021])
+ZCZC W06 30 L01 Pop Quiz [08/04/2021]
+ZCZC W06 30 L01 Pop Quiz [21/04/2021]
+ZCZC W06 90 L05 Searching about fork and exec (Examples, description, etc)
+ZCZC W06 150 L05 Searching top 10 links for week 06.
