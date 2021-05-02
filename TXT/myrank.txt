@@ -14,3 +14,6 @@ ZCZC W04 gilangcy
 ZCZC W05 gerradnd
 ZCZC W05 hanifahreza
 ZCZC W05 hadihalimm
+ZCZC W06 gerradnd
+ZCZC W06 gilangcy
+ZCZC W06 hanifanggawi

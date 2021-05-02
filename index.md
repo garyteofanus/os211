@@ -15,6 +15,7 @@ Hello! I'm Teofanus Gary. You can check out my:
 * [Week 04](W04)
 * [Week 05](W05)
 * [Week 06](W06)
+* [Week 07](W07)
 
 [Github Repo]: https://github.com/garyteofanus/os211
 [Log]: https://garyteofanus.github.io/os211/TXT/mylog.txt

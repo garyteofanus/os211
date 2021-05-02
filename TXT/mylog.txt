@@ -51,3 +51,8 @@ ZCZC W06 30 L01 Pop Quiz [08/04/2021]
 ZCZC W06 30 L01 Pop Quiz [21/04/2021]
 ZCZC W06 90 L05 Searching about fork and exec (Examples, description, etc)
 ZCZC W06 150 L05 Searching top 10 links for week 06.
+ZCZC W07 100 L02 Zoom related (Attend class [29/04/2021])
+ZCZC W07 30 L00 Pop Quiz Related
+ZCZC W07 10 L09 Virtualbox Demo
+ZCZC W07 150 L05 W07 Top 10 Links
+ZCZC W07 10 L17 Update mylog.txt
