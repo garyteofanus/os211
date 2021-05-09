@@ -17,3 +17,6 @@ ZCZC W05 hadihalimm
 ZCZC W06 gerradnd
 ZCZC W06 gilangcy
 ZCZC W06 hanifanggawi
+ZCZC W07 hanifanggawi
+ZCZC W07 hanifahreza
+ZCZC W07 ghifarizr

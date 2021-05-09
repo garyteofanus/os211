@@ -56,3 +56,7 @@ ZCZC W07 30 L00 Pop Quiz Related
 ZCZC W07 10 L09 Virtualbox Demo
 ZCZC W07 150 L05 W07 Top 10 Links
 ZCZC W07 10 L17 Update mylog.txt
+ZCZC W08 30 L01 Pop Quiz [04/05/2021]
+ZCZC W08 100 L02 Zoom related (Attend class [04/05/2021]
+ZCZC W08 120 L05 Searching for top 10 links
+ZCZC W08 240 L10 Doing assignments (Chapter 1-4 of creating lfs)
